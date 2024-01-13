@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KtC#1", "KtC#1\KtC#1.csproj", "{70115C15-059A-4CAD-A022-EDC82E8702B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KtC#1_2", "KtC#1_2\KtC#1_2.csproj", "{C0BC3F67-129D-4362-B32A-C937E429E40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70115C15-059A-4CAD-A022-EDC82E8702B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70115C15-059A-4CAD-A022-EDC82E8702B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70115C15-059A-4CAD-A022-EDC82E8702B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70115C15-059A-4CAD-A022-EDC82E8702B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BC3F67-129D-4362-B32A-C937E429E40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BC3F67-129D-4362-B32A-C937E429E40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BC3F67-129D-4362-B32A-C937E429E40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BC3F67-129D-4362-B32A-C937E429E40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C68F9CF-4803-435F-BA72-6680B7045D3B}
+	EndGlobalSection
+EndGlobal
