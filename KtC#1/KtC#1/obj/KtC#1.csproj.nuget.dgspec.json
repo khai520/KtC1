@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khai5\\source\\repos\\KtC#1\\KtC#1\\KtC#1.csproj": {}
+    "C:\\Users\\khai5\\Source\\Repos\\KtC1\\KtC#1\\KtC#1\\KtC#1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khai5\\source\\repos\\KtC#1\\KtC#1\\KtC#1.csproj": {
+    "C:\\Users\\khai5\\Source\\Repos\\KtC1\\KtC#1\\KtC#1\\KtC#1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khai5\\source\\repos\\KtC#1\\KtC#1\\KtC#1.csproj",
+        "projectUniqueName": "C:\\Users\\khai5\\Source\\Repos\\KtC1\\KtC#1\\KtC#1\\KtC#1.csproj",
         "projectName": "KtC#1",
-        "projectPath": "C:\\Users\\khai5\\source\\repos\\KtC#1\\KtC#1\\KtC#1.csproj",
+        "projectPath": "C:\\Users\\khai5\\Source\\Repos\\KtC1\\KtC#1\\KtC#1\\KtC#1.csproj",
         "packagesPath": "C:\\Users\\khai5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khai5\\source\\repos\\KtC#1\\KtC#1\\obj\\",
+        "outputPath": "C:\\Users\\khai5\\Source\\Repos\\KtC1\\KtC#1\\KtC#1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
